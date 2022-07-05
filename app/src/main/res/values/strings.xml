@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScheduleNotification</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="schedule">Schedule</string>
+    <string name="date_set">Date set</string>
+    <string name="time_set">Time set</string>
+    <string name="notification_channel_name">Notification</string>
+    <string name="notification_scheduled_at">Notification scheduled at:</string>
+</resources>
